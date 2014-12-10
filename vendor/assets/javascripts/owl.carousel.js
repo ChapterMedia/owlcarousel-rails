@@ -1,5 +1,6 @@
 /*
  *  jQuery OwlCarousel v1.3.3
+ *  Patched by Chapter Media for IE8
  *
  *  Copyright (c) 2013 Bartosz Wojciechowski
  *  http://www.owlgraphic.com/owlcarousel/

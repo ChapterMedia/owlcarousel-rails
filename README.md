@@ -5,6 +5,9 @@ This gem bundles the contents of [OwlCarousel](https://github.com/OwlFonk/OwlCar
 
 Touch enabled jQuery plugin that lets you create beautiful responsive carousel slider. [Visit Owl Carousel landing page](http://owlgraphic.com/owlcarousel).
 
+Patched to include IE8 debug.  Details here:
+https://github.com/OwlFonk/OwlCarousel/issues/295
+
 ###Features:
 * Responsive
 * Touch Events
